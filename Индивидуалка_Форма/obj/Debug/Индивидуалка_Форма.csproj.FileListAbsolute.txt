@@ -1,0 +1,12 @@
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\bin\Debug\Индивидуалка_Форма.exe.config
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\bin\Debug\Индивидуалка_Форма.exe
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\bin\Debug\Индивидуалка_Форма.pdb
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\obj\Debug\Индивидуалка_Форма.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\obj\Debug\Индивидуалка_Форма.Form1.resources
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\obj\Debug\Индивидуалка_Форма.Properties.Resources.resources
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\obj\Debug\Индивидуалка_Форма.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\obj\Debug\Индивидуалка_Форма.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\obj\Debug\Индивидуалка_Форма.exe
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\obj\Debug\Индивидуалка_Форма.pdb
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\obj\Debug\Индивидуалка_Форма.Form2.resources
+C:\Users\Даниил\Desktop\Архис 2 инд\Индивидуалка_Форма\Индивидуалка_Форма\obj\Debug\Индивидуалка_Форма.Sotrudniki.resources
